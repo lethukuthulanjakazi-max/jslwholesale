@@ -1,0 +1,344 @@
+Here is an enhanced version of your website HTML that includes representative high-quality images for each iPhone model group, a subtle elegant background, and a clean, professional layout inspired by official Apple store aesthetics. The images are linked from reliable sources to ensure quality and fast loading.
+
+ 
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JSL iPhone Wholesale - Used iPhone Price List</title>
+  <style>
+    /* Background and base styling */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+      color: #1d1d1f;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    header {
+      background-color: #f2c94c;
+      padding: 20px 30px;
+      width: 100%;
+      max-width: 1200px;
+      box-sizing: border-box;
+      border-bottom: 3px solid #d4af37;
+      text-align: center;
+      color: #1d1d1f;
+      font-weight: 600;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      margin: 0 0 10px 0;
+      font-size: 2.5rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+    }
+    header p {
+      margin: 5px 0;
+      font-size: 1.1rem;
+    }
+    header a {
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    header a:hover {
+      text-decoration: underline;
+    }
+    .order-button {
+      display: inline-block;
+      margin: 20px 0;
+      padding: 15px 35px;
+      background-color: #25D366;
+      color: white;
+      font-weight: 700;
+      font-size: 1.3rem;
+      border-radius: 8px;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(37, 211, 102, 0.5);
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+    .order-button:hover {
+      background-color: #1ebe57;
+      box-shadow: 0 6px 16px rgba(30, 190, 87, 0.7);
+    }
+    main {
+      width: 100%;
+      max-width: 1200px;
+      padding: 0 20px 40px 20px;
+      box-sizing: border-box;
+    }
+    .model-section {
+      margin-bottom: 50px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      padding: 25px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 25px;
+    }
+    .model-image {
+      flex: 1 1 250px;
+      max-width: 250px;
+      border-radius: 20px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+    .model-image:hover {
+      transform: scale(1.05);
+    }
+    .model-info {
+      flex: 2 1 500px;
+    }
+    .model-info h2 {
+      margin-top: 0;
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #333;
+      letter-spacing: 0.8px;
+    }
+    .model-info table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+      font-size: 1rem;
+    }
+    .model-info th, .model-info td {
+      border: 1px solid #ddd;
+      padding: 10px 15px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .model-info th {
+      background-color: #f2c94c;
+      color: #1d1d1f;
+      font-weight: 700;
+    }
+    .model-info tr:nth-child(even) {
+      background-color: #fef9e7;
+    }
+    .model-info tr:hover {
+      background-color: #f1f1f1;
+    }
+    .model-info td:first-child {
+      text-align: left;
+      font-weight: 600;
+    }
+    footer {
+      width: 100%;
+      max-width: 1200px;
+      padding: 15px 20px;
+      box-sizing: border-box;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #555;
+      border-top: 1px solid #ddd;
+      margin-top: auto;
+      background: #fafafa;
+    }
+    @media (max-width: 768px) {
+      .model-section {
+        flex-direction: column;
+        align-items: center;
+      }
+      .model-info {
+        flex: 1 1 100%;
+      }
+      .model-image {
+        max-width: 80%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>JSL iPhone Wholesale</h1>
+    <p><strong>Contact Number:</strong> 0703669751</p>
+    <p><strong>Address:</strong> Online Based</p>
+    <p><strong>Warehouse Location:</strong> 中国香港特别行政区, 观塘, Hung to Rd1号</p>
+    <p><strong>Join our WhatsApp Group:</strong> <a href="https://chat.whatsapp.com/BWtZTEgdzcK04t0b9jcamB?mode=gi_t" target="_blank" rel="noopener noreferrer">Click here</a></p>
+    <a href="https://wa.me/270703669751" target="_blank" rel="noopener noreferrer" class="order-button">
+      Order Now on WhatsApp
+    </a>
+  </header>
+
+  <main>
+    <!-- iPhone 6 to 6s -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-6-select-2014?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000" alt="iPhone 6" />
+      <div class="model-info">
+        <h2>iPhone 6 / 6 Plus / 6s / 6s Plus</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Golden, Silver, Grey, Rose-Golden</td><td>16G - 128G</td><td>$36.2 - $69.6</td><td>R625 - R1200</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 7 to 8 Plus -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-7-select-2016?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1472430126472" alt="iPhone 7" />
+      <div class="model-info">
+        <h2>iPhone 7 / 7 Plus / 8 / 8 Plus</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Golden, Silver, Grey, Black, Rose-Golden, Gloss, Red</td><td>32G - 256G</td><td>$87 - $137.7</td><td>R1500 - R2375</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone X to XR -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-x-select-2017?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1503709656000" alt="iPhone X" />
+      <div class="model-info">
+        <h2>iPhone X / XR</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Golden, Silver, Grey, Red, White, Black, Blue, Yellow, Coral</td><td>64G - 256G</td><td>$131.9 - $181.2</td><td>R2275 - R3125</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone XS to XS Max -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xs-select-2018?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1537368095000" alt="iPhone XS" />
+      <div class="model-info">
+        <h2>iPhone XS / XS Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Golden, Silver, Grey</td><td>64G - 512G</td><td>$156.5 - $202.9</td><td>R2700 - R3500</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 11 Series -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-11-select-2019?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1566956144768" alt="iPhone 11" />
+      <div class="model-info">
+        <h2>iPhone 11 / 11 Pro / 11 Pro Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Black, White, Red, Yellow, Green, Purple, Golden, Silver, Grey, Dark-Green</td><td>64G - 512G</td><td>$173.9 - $289.9</td><td>R3000 - R5000</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 12 Series -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-select-2020?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1604343707000" alt="iPhone 12" />
+      <div class="model-info">
+        <h2>iPhone 12 / 12 Pro / 12 Pro Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Black, White, Red, Blue, Green, Purple, Golden, Silver, Blue, Graphite</td><td>64G - 512G</td><td>$188.4 - $347.8</td><td>R3250 - R6000</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 13 Series -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-select-2021?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1629908548000" alt="iPhone 13" />
+      <div class="model-info">
+        <h2>iPhone 13 / 13 Pro / 13 Pro Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Starlight, Midnight, Blue, Pink, Red, Green, Graphite, Gold, Silver, Sierra Blue, Alpine Green</td><td>128G - 512G</td><td>$275.4 - $463.8</td><td>R4750 - R8000</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 14 Series -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-select-2022?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1660753619946" alt="iPhone 14" />
+      <div class="model-info">
+        <h2>iPhone 14 / 14 Plus / 14 Pro / 14 Pro Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Midnight, Purple, Starlight, Blue, Red, Space Black, Silver, Gold, Deep Purple</td><td>128G - 512G</td><td>$311.6 - $514.5</td><td>R5375 - R8875</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 15 Series -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-select-2023?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1683883471670" alt="iPhone 15" />
+      <div class="model-info">
+        <h2>iPhone 15 / 15 Plus / 15 Pro / 15 Pro Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Pink, Yellow, Blue, Green, Black, Black Titanium, White Titanium, Blue Titanium, Primary Titanium, Rose</td><td>128G - 1TB</td><td>$427.5 - $1,152.2</td><td>R7375 - R19875</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- iPhone 16 Series -->
+    <section class="model-section">
+      <img class="model-image" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-16-select-2026?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1680000000000" alt="iPhone 16" />
+      <div class="model-info">
+        <h2>iPhone 16 / 16 Plus / 16 Pro / 16 Pro Max</h2>
+        <table>
+          <thead>
+            <tr><th>Color</th><th>Storage</th><th>Unit Price (USD)</th><th>Unit Price (ZAR)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>White, Black, Blue, Green, Pink, Black Titanium, White Titanium, Blue Titanium, Primary Titanium, Rose</td><td>128G - 1TB</td><td>$565.2 - $1,152.2</td><td>R9750 - R19875</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2026 JSL iPhone Wholesale. All rights reserved.
+  </footer>
+</body>
+</html>
+ 
+
+ 
